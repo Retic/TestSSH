@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SSHTest/.vs/SSHTest/v17
+/SSHTest/SSHTest/obj
